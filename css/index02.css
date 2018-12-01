@@ -7,17 +7,15 @@
     border-bottom-color: green;
 }
 .product .search{
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
 }
 .product .search .tupian .one{
     margin: 0 auto;
-    width: 550px;
 }
 .product .search .tupian .two{
     margin: 0 auto;
-    width: 550px;
 }
 .product .search .tupian span{
     color: green;
@@ -25,49 +23,4 @@
 .product .search .tupian p{
     text-indent: 20px;
     color: gray;
-}
-@media(min-width:992px) and (max-width:1200px){
-    .product .search{
-        width: 950px;
-        display: flex;
-        justify-content: space-around;
-    }
-    .product .search .tupian .one{
-        margin: 0 auto;
-        width: 400px;
-    }
-    .product .search .tupian .two{
-        margin: 0 auto;
-        width: 400px;
-    }
-}
-@media(min-width:762px) and (max-width:992px){
-    .product .search{
-        width: 750px;
-        display: flex;
-        justify-content: space-around;
-    }
-    .product .search .tupian .one{
-        margin: 0 auto;
-        width: 750px;
-    }
-    .product .search .tupian .two{
-        margin: 0 auto;
-        width: 750px;
-    }
-}
-@media(min-width:400px) and (max-width:762px){
-    .product .search{
-        width: 350px;
-        display: flex;
-        justify-content: space-around;
-    }
-    .product .search .tupian .one{
-        margin: 0 auto;
-        width: 370px;
-    }
-    .product .search .tupian .two{
-        margin: 0 auto;
-        width: 370px;
-    }
 }

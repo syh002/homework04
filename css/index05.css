@@ -11,26 +11,22 @@
 }
 .product .search .tupian .one{
     padding-top: 50px;
-    width: 600px;
     height: 200px;
     border-bottom-color: white;
 }
 .product .search .tupian .two{
     padding-top: 20px;
-    width: 600px;
     border-bottom-color: white;
 }
 .product .search .tupian .left{
     height: 150px;
     line-height: 150px;
-    width: 600px;
     margin: 0 auto;
     text-align: center;
     border: 1px solid white;
     border-right-color: green;
 }
 .product .search .tupian .right{
-    width: 450px;
     margin: 0 auto;
     margin-top: 30px;
 }

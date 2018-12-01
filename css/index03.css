@@ -1,9 +1,10 @@
-.header .head .right ul .three{
-    border-bottom-color: green;
-}
-.header .head .right ul .one{
-    width: 44px;
+.header .head .right1 .search .one{
+    border: 1px solid white;
     border-bottom-color: white;
+}
+.header .head .right1 .search .three{
+    border: 1px solid white;
+    border-bottom-color: green;
 }
 .product #home .search .tupian .img{
     height: 300px;

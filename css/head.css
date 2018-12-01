@@ -43,7 +43,7 @@
     }
 }
 @media(min-width:762px) and (max-width:992px){
-    .header .head img{
+    .header .head img .right1{
         height: 50px;
     }
     .header .head{
@@ -51,9 +51,9 @@
     }
     .header .head .right1{
         width: 750px;
+        float: right;
     }
     .header .head .right1 .search{
-        width: 750px;
         background-color:white;
         border: none;
     }
@@ -78,9 +78,6 @@
         height: 40px;
         border-bottom-color: green;
     }
-}
-.carousel{
-    margin-top: -20px;
 }
 .center-body{
     margin-top: 50px;
